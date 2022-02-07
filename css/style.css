@@ -69,7 +69,7 @@
 .article {
 	padding-left: 25px;
 	padding-right: 8px;
-	max-width: 921/4px;
+	max-width: 921.4px;
 }
 .main {
 	min-height: 100%;
@@ -79,21 +79,21 @@
 	max-width: 850px;
 }
 .text {
-	font-family: "Playfair Display" serif;
+	font-family: "Playfair Display", serif;
 	font-size: 18px;
 	line-height: 1.3;
 	margin: 40px 0 40px 0;
 	text-align: justify;
 }
 .title1 {
-	font-family: "Andada Pro" serif;
+	font-family: "Andada Pro", serif;
 	font-weight: 700;
 	font-style: italic;
 	font-size: 60px;
 	color: darkred;
 }
 .title3 {
-	font-family: "Playfair Display" serif;
+	font-family: "Playfair Display", serif;
 	font-weight: 400;
 	font-style: italic;
 	font-size: 40px;
